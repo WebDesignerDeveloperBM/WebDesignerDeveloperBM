@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGGhMxJ_Ij6oA/profile-displaybackgroundimage-shrink_350_1400/B4EZ9cXKPRJYAU-/0/1783961003278?e=1785369600&v=beta&t=3U4xs-OOAATj8Y6Umt1uFToxZpdTI2cUs2NsWUAX3Wc">
 <h1 align="center">Hi 👋, I'm Bishozid Mandal</h1>
 <h3 align="center">💻 Learning Web Design | Building with HTML, CSS & JS 🎨 Creating Responsive Websites | Web Design Student 💡 Learning, Building & Growing Every Day</h3>
 
